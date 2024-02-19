@@ -33,6 +33,8 @@
 ### @autores: Wesley dos Santos Gatinho e Helio Vieira Pinho
 
 ### @contato: wesley.gatinho@discente.ufma.br
+### @contato: helio.pinho@discente.ufma.br
+
 
 ### @data última versão: 18/02/2024
 
